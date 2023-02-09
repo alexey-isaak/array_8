@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\Seminar4\array_8\bin\Debug\net7.0\array_8.exe
+C:\Users\alex\geekbrains\Seminar4\array_8\bin\Debug\net7.0\array_8.deps.json
+C:\Users\alex\geekbrains\Seminar4\array_8\bin\Debug\net7.0\array_8.runtimeconfig.json
+C:\Users\alex\geekbrains\Seminar4\array_8\bin\Debug\net7.0\array_8.dll
+C:\Users\alex\geekbrains\Seminar4\array_8\bin\Debug\net7.0\array_8.pdb
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.AssemblyInfo.cs
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.dll
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\refint\array_8.dll
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.pdb
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\array_8.genruntimeconfig.cache
+C:\Users\alex\geekbrains\Seminar4\array_8\obj\Debug\net7.0\ref\array_8.dll
